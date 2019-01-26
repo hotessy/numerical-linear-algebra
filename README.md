@@ -1,3 +1,9 @@
+### **In this fork by @hotessy:**
+ 1. Added corresponding lecture video in the beginning of every notebook
+ 2. Added a `requirement.txt` listing all dependencies.
+ 
+
+
 ## Computational Linear Algebra for Coders
 
 This course is focused on the question: **How do we do matrix computations with acceptable speed and acceptable accuracy?**
