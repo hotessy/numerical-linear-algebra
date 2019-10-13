@@ -1,6 +1,7 @@
 ### **In this fork by @hotessy:**
- 1. Added corresponding lecture video in the beginning of every notebook
+ 1. Added corresponding lecture video every subsection of every notebook.
  2. Added a `requirement.txt` listing all dependencies.
+ ------------------------------------------------------------------------------------------------------
  
 
 
